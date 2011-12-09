@@ -1,4 +1,7 @@
 This repository contains some mundane shell scripts.
 
+* Setup
+  Make sure the bin folder is in your path:
+: export PATH=$PATH:$HOME/bin
 * Contents
 - cleamacs :: remove emacs backup files from current directory

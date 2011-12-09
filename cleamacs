@@ -1,0 +1,3 @@
+#!/bin/bash
+# Remove all emacs backups from current directory
+rm *~

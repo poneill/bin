@@ -1,0 +1,4 @@
+This repository contains some mundane shell scripts.
+
+* Contents
+- cleamacs :: remove emacs backup files from current directory

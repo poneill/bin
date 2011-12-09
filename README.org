@@ -1,5 +1,7 @@
-This repository contains some mundane shell scripts.
-
+* Overview
+This repository contains some mundane shell scripts.  Most of them are
+unlikely to be of any use to anyone but me, but you are welcome to
+them anyway.
 * Setup
   Make sure the bin folder is in your path:
 : export PATH=$PATH:$HOME/bin

@@ -1,0 +1,6 @@
+#!/bin/bash 
+
+# deletes jobs according to a greppable string passed as the # first
+# command line parameter
+echo $1
+qdel `qstat | grep $1 | awk '{print $1}'`

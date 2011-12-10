@@ -7,3 +7,5 @@ them anyway.
 : export PATH=$PATH:$HOME/bin
 * Contents
 - cleamacs :: remove emacs backup files from current directory
+- udel :: delete all of the qsub jobs matching the argument
+- qclean :: Clean up temporary files created by qsub

@@ -1,0 +1,4 @@
+#!/bin/bash
+# clone the repo specified by first argument from github
+USER=poneill
+git clone git@github.com:$USER/$1.git

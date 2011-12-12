@@ -9,3 +9,7 @@ them anyway.
 - cleamacs :: remove emacs backup files from current directory
 - udel :: delete all of the qsub jobs matching the argument
 - qclean :: Clean up temporary files created by qsub
+- assassinate :: kill processes by name
+- emin :: kill emacs.  The existence of this script is kind of an
+          embarrassment.
+

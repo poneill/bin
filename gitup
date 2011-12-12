@@ -1,0 +1,20 @@
+#!/bin/bash
+# make sure all of your commits have been pushed to github.
+
+cd $HOME
+pwd
+for dir in `ls`
+do 
+#    echo $dir
+    if [ -d $dir ]; then
+#	echo $dir is a directory
+	if [ -e $dir/.git ];then
+	    echo $dir
+	    cd $dir
+      	    git status
+	    echo #\n
+	    cd ..
+	fi
+#	echo tested for git
+    fi
+done

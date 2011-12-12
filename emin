@@ -1,0 +1,4 @@
+#!/bin/bash
+# Kills emacs.  A regrettable script to have, really.
+
+kill `ps aux | grep emacs | grep -v grep | awk '{print $2}'`

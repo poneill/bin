@@ -12,4 +12,4 @@ them anyway.
 - assassinate :: kill processes by name
 - emin :: kill emacs.  The existence of this script is kind of an
           embarrassment.
-
+- untgz :: do the right thing to a .tgz file.

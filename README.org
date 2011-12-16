@@ -13,3 +13,4 @@ them anyway.
 - emin :: kill emacs.  The existence of this script is kind of an
           embarrassment.
 - untgz :: do the right thing to a .tgz file.
+- untarbz2 :: do the right thing to a .tar.bz2 file.

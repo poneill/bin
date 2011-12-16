@@ -1,0 +1,4 @@
+#!/bin/bash 
+
+# I never want to remember how to manually unzip a .tgz.
+gunzip < $1 | tar xvf -

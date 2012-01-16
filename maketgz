@@ -1,0 +1,3 @@
+#!/bin/bash
+DIRNAME=$1
+tar cvzf $DIRNAME.tgz $DIRNAME

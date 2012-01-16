@@ -13,3 +13,4 @@ them anyway.
           embarrassment.
 - untgz :: do the right thing to a .tgz file.
 - untarbz2 :: do the right thing to a .tar.bz2 file.
+- untar :: do the right thing to a .tar file

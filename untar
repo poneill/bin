@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# do the right thing with .tar.bz2 files
+tar xvf $1

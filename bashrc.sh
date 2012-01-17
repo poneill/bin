@@ -110,4 +110,5 @@ export PATH
 
 alias gs='git status'
 alias gp='git push'
+alias gu='git pull'
 alias lh='ls -lh'

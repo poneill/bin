@@ -109,6 +109,6 @@ PATH=$PATH:~/.cabal/bin
 export PATH
 
 alias gs='git status'
-alias gp='git push'
-alias gu='git pull'
+alias gu='git push'  # changed these aliases since I could never remember them
+alias gd='git pull'
 alias lh='ls -lh'

@@ -1,3 +1,3 @@
 #!/bin/bash
-# Assassinate hunts for processes by name, then kills them.
+# kill your darlings
 kill `ps aux | grep $1 | awk '{print $2}'`
